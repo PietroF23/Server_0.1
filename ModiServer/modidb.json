@@ -3,4 +3,10 @@
 	"2" : "Nocciola",
 	"3" : "Biscotto",
 	"4" : "Pistacchio"
+},
+"colori":{
+    "Cioccolato" : ["#976c40", "#936536", "#8e5d2c", "#895622", "#854e18", "#80470c", "#7b3f00"],
+	"Nocciola" : "Nocciola",
+	"Biscotto" : "Biscotto",
+	"Pistacchio" : "Pistacchio"
 }}
