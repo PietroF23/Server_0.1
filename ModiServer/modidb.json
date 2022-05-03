@@ -6,7 +6,7 @@
 },
 "colori":{
     "Cioccolato" : ["#976c40", "#936536", "#8e5d2c", "#895622", "#854e18", "#80470c", "#7b3f00"],
-	"Nocciola" : "Nocciola",
+	"Nocciola" :   ["#a38267", "#9f7d61", "#9b785b", "#977454", "#936f4e", "#8e6b48", "#8a6642"],
 	"Biscotto" : "Biscotto",
 	"Pistacchio" : "Pistacchio"
 }}
